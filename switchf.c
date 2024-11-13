@@ -1,5 +1,6 @@
 #include <stdio.h>
-//Efecan Kocabayramoğlu
+#include <conio.h>
+//Efedo.
 int main()
 {
     int num,num1,result,isl;
@@ -44,4 +45,9 @@ int main()
         break;
     }
     
+    getch();
+
+    return 0;
+   
+     
 }
